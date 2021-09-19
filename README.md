@@ -1,5 +1,3 @@
 # Sass Boilerplate
 
-Modified version of [Sass Boilerplate]
-
-[Sass Boilerplate]
+A modified version of [Sass Boilerplate](https://github.com/KittyGiraudel/sass-boilerplate)
